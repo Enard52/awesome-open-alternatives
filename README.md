@@ -1,5 +1,15 @@
 # Awesome Open Source Alternatives [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<div align="center">
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
+
+**[English](README.md) | [简体中文](README.zh-CN.md) | [Español](README.es.md) | [日本語](README.ja.md) | [Русский](README.ru.md) | [Deutsch](README.de.md)**
+
+</div>
+
 > A curated list of delightfully modern, privacy-friendly, self-hostable open-source alternatives to proprietary SaaS and software.
 
 Tired of subscription fatigue, vendor lock-in, and opaque data practices? This list features active, production-ready open-source alternatives that respect your privacy and give you full control of your infrastructure.
